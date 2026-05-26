@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervpdate",
+        "uuid": 3579762,
+        "checksum": "de01w8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
